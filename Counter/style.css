@@ -18,3 +18,10 @@
     margin: 0 20px;
     text-align: center;
 }
+
+.buttons{
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: space-around;
+}
