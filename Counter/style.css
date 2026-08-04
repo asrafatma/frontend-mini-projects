@@ -24,4 +24,11 @@
     margin-top: 20px;
     align-items: center;
     justify-content: space-around;
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: cadetblue;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
 }
