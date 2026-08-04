@@ -5,7 +5,7 @@ const counter = document.getElementById("count")
 
 let count = 0;
 
-decrease.onclick - function(){
+decrease.onclick = function(){
     count--;
     counter.textContent = count;
 }
