@@ -12,23 +12,31 @@
     position: relative;
 }
 
+h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
 #count{
-    font-size: 60px;
+    font-size: 70px;
     font-weight: bold;
     margin: 0 20px;
     text-align: center;
 }
 
-.buttons{
+.button-container{
     display: flex;
-    margin-top: 20px;
+    margin-top: 10px;
     align-items: center;
     justify-content: space-around;
+}
+
+.buttons{
     padding: 10px 20px;
-    font-size: 1.5em;
+    font-size: 20px;
     color: white;
     background-color: cadetblue;
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.25s;
 }
+
