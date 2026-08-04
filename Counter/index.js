@@ -15,3 +15,7 @@ reset.onclick = function(){
     counter.textContent = count;
 }
 
+increase.onclick = function(){
+    count++;
+    counter.textContent = count;
+}
