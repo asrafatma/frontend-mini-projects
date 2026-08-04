@@ -9,3 +9,8 @@ decrease.onclick - function(){
     count--;
     counter.textContent = count;
 }
+
+reset.onclick = function(){
+    count = 0;
+    counter.textContent = count;
+}
