@@ -8,10 +8,12 @@
     max-height: 400px;
     border-radius: 10px;
     margin: 0 auto;
+    top: 50%;
+    position: relative;
 }
 
 #count{
-    font-size: 54px;
+    font-size: 60px;
     font-weight: bold;
     margin: 0 20px;
     text-align: center;
