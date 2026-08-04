@@ -14,3 +14,4 @@ reset.onclick = function(){
     count = 0;
     counter.textContent = count;
 }
+
