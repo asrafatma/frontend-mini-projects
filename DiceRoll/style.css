@@ -7,5 +7,9 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 7em;
     color: blanchedalmond;
-    
+    background-color: rgb(72, 63, 49);
+    padding: 10px 20px;
+    border-radius: 7px;
+    width: 7cm;
+    height: 7cm;
 }
