@@ -1,3 +1,11 @@
 .dice{
     text-align: center;
 }
+
+#button{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 7em;
+    color: blanchedalmond;
+    
+}
