@@ -1,6 +1,6 @@
 # Frontend Mini Projects
 
-A production-ready, structured collection of lightweight, interactive web applications built with core web technologies.
+A curated collection of lightweight, beginner-to-intermediate vanilla JavaScript, HTML5, and CSS3 mini-projects designed to practice DOM manipulation, event handling, logic building, and clean UI styling.
 
 ---
 
@@ -8,10 +8,33 @@ A production-ready, structured collection of lightweight, interactive web applic
 
 This repository houses modular frontend mini-projects designed to practice and demonstrate fundamental web development concepts, state management, UI styling, and DOM manipulation using vanilla JavaScript.
 
+---
+
+## 📁 Included Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🔢 Counter** | An interactive numeric counter featuring increment, decrement, and reset functionality. | HTML, CSS, JavaScript |
+| **🎲 DiceRoll** | A dynamic dice rolling simulator that generates random numbers and renders dice outcomes. | HTML, CSS, JavaScript |
+| **🎯 NumberGuessingGame** | A game where the player attempts to guess a randomly generated number within a set range, receiving instant feedback on their guesses. | HTML, CSS, JavaScript |
+
+---
+
+## 🗂️ Project Structure
+
 ```text
 frontend-mini-projects/
-├── .vscode/          # Workspace configuration
-└── Counter/          # Counter Application
-    ├── index.html    # Application layout & markup
-    ├── index.js      # Interactivity & state logic
-    └── style.css     # UI styling & positioning
+├── .vscode/
+├── Counter/
+│   ├── index.html
+│   ├── index.js
+│   └── style.css
+├── DiceRoll/
+│   ├── index.html
+│   ├── index.js
+│   └── style.css
+├── NumberGuessingGame/
+│   ├── index.html
+│   ├── index.js
+│   └── style.css
+└── README.md
