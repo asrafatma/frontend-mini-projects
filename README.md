@@ -12,11 +12,11 @@ This repository houses modular frontend mini-projects designed to practice and d
 
 ## 📁 Included Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🔢 Counter** | An interactive numeric counter featuring increment, decrement, and reset functionality. | HTML, CSS, JavaScript |
-| **🎲 DiceRoll** | A dynamic dice rolling simulator that generates random numbers and renders dice outcomes. | HTML, CSS, JavaScript |
-| **🎯 NumberGuessingGame** | A game where the player attempts to guess a randomly generated number within a set range, receiving instant feedback on their guesses. | HTML, CSS, JavaScript |
+| Project | Description | Live Demo | Source Code |
+| :--- | :--- | :--- | :--- |
+| **01. Counter** | Simple increment/decrement counter app | [Demo](https://asrafatma.github.io/frontend-mini-projects/Counter/) | [Code](./Counter/) |
+| **02. Dice Roll** | Interactive random dice roller | [Demo](https://asrafatma.github.io/frontend-mini-projects/DiceRoll/) | [Code](./DiceRoll/) |
+| **04. Number Guessing Game** | Interactive logic game with user feedback | [Demo](https://asrafatma.github.io/frontend-mini-projects/NumberGuessingGame/) | [Code](./NumberGuessingGame/) |
 
 ---
 
