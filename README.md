@@ -16,7 +16,7 @@ This repository houses modular frontend mini-projects designed to practice and d
 | :--- | :--- | :--- | :--- |
 | **01. Counter** | Simple increment/decrement counter app | [Demo](https://asrafatma.github.io/frontend-mini-projects/Counter/) | [Code](./Counter/) |
 | **02. Dice Roll** | Interactive random dice roller | [Demo](https://asrafatma.github.io/frontend-mini-projects/DiceRoll/) | [Code](./DiceRoll/) |
-| **04. Number Guessing Game** | Interactive logic game with user feedback | [Demo](https://asrafatma.github.io/frontend-mini-projects/NumberGuessingGame/) | [Code](./NumberGuessingGame/) |
+| **03. Number Guessing Game** | Interactive logic game with user feedback | [Demo](https://asrafatma.github.io/frontend-mini-projects/NumberGuessingGame/) | [Code](./NumberGuessingGame/) |
 
 ---
 
