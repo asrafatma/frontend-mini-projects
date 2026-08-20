@@ -8,15 +8,16 @@ const maxAttempts = 3;
 let attempts = 0;
 let running = true;
 
-let randomNumber;
 
 button.onclick = function(){
 
-    if(randomNumber == num){
+    let guess = Number(input.value);
+
+    if(guess == num){
         result.textContent= "You guessed the number correctly!!";
-    } else if (randomNumber > num) {
+    } else if (guess > num) {
         result.textContent = "Too High!!";
-    } else if (randomNumber < num) {
+    } else if (guess < num) {
         result.textContent = "Too Low!1";
     } else {
         result.textContent = "Invalid Number!!";
