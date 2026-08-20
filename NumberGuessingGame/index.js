@@ -1,11 +1,14 @@
-let input = document.getElementById("input");
-let button = document.getElementById("button");
-const num = Math.floor(Math.random()*100)+1;
+const input = document.getElementById("input");
+const button = document.getElementById("button");
+const min = 1;
+const max = 100;
+const answer = Math.floor(Math.random() * (max - min + 1)) + min;
 let result = document.getElementById("result");
 
 let randomNumber;
 
 button.onclick = function(){
+
     if(randomNumber == num){
         result.textContent= "You guessed the number correctly!!";
     } else if (randomNumber > num) {
