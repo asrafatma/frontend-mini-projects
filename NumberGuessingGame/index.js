@@ -7,12 +7,12 @@ let randomNumber;
 
 button.onclick = function(){
     if(randomNumber == num){
-        result.textContent("You guessed the number correctly!!");
+        result.textContent= "You guessed the number correctly!!";
     } else if (randomNumber > num) {
-        result.textContent("Too High!!");
+        result.textContent = "Too High!!";
     } else if (randomNumber < num) {
-        result.textContent("Too Low!1");
+        result.textContent = "Too Low!1";
     } else {
-        result.textContent("Invalid Number!!");
+        result.textContent = "Invalid Number!!";
     }
 }
