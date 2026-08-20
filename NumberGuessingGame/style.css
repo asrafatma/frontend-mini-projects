@@ -4,11 +4,12 @@
     align-items: center;
     max-width: fit-content;
     max-height: fit-content;
-    border-radius: 5px;
+    border-radius: 10px;
     background-color: rgb(200, 151, 247);
     color: rgb(40, 21, 58);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 20px;
     margin: auto;
+    box-shadow: 10px;
 
 }
