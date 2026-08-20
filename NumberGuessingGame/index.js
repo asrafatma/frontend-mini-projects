@@ -11,15 +11,31 @@ let running = true;
 
 button.onclick = function(){
 
+    if (!running) return;
+
     let guess = Number(input.value);
 
-    if(guess == num){
-        result.textContent= "You guessed the number correctly!!";
-    } else if (guess > num) {
-        result.textContent = "Too High!!";
-    } else if (guess < num) {
-        result.textContent = "Too Low!1";
-    } else {
-        result.textContent = "Invalid Number!!";
+    if (isNaN(guess) || guess < min || guess > max) {
+        result.textContent = `Please enter a valid number between ${min} and ${max}.`;
+        return;
     }
+
+    attempts += 1;
+
+    if (guess === answer) {
+        result.textContent = ` You guessed it correctly in ${attempts} attempt(s)!`;
+        running = false;
+    } else {
+        let remaining = maxAttempts - attempts;
+        let hint = guess > answer ? "Too high!" : "Too low!";
+
+        if (remaining > 0) {
+            result.textContent = `${hint} You have ${remaining} attempt(s) left.`;
+        } else {
+            result.textContent = ` Game Over! The correct number was ${answer}.`;
+            running = false;
+        }
+    }
+
+    input.value = "";
 }
