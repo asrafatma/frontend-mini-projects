@@ -54,3 +54,7 @@ body{
     transform: translateY(-2px) translateX(-1px);
     transition: all 0.3s ease;
 }
+
+#result{
+    font-size: 17px;
+}
