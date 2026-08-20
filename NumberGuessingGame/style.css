@@ -36,7 +36,8 @@ body{
     background-color: rgb(225, 197, 251);
     border-radius: 5px;
     border-color: rgb(225, 197, 251);
-    margin: 20px;
+    margin: 15px;
+    padding: 7px;
 }
 
 .button{
