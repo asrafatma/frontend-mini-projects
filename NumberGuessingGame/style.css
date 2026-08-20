@@ -15,6 +15,7 @@
 }
 
 .div{
+    text-align: center;
 }
 
 #label{
@@ -35,7 +36,9 @@
 .button{
     background-color: rgb(40, 21, 58);
     color: beige;
-    width: 10em;
-    height: 2em;
-
+    width: 7em;
+    height: 3em;
+    border-radius: 5px;
+    padding: 5px;
 }
+
