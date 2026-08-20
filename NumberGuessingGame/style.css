@@ -29,4 +29,13 @@
     background-color: rgb(225, 197, 251);
     border-radius: 5px;
     border-color: rgb(225, 197, 251);
+    margin: 20px;
+}
+
+.button{
+    background-color: rgb(40, 21, 58);
+    color: beige;
+    width: 10em;
+    height: 2em;
+
 }
