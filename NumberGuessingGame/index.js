@@ -1,9 +1,12 @@
 const input = document.getElementById("input");
 const button = document.getElementById("button");
+
 const min = 1;
 const max = 100;
 const answer = Math.floor(Math.random() * (max - min + 1)) + min;
 let result = document.getElementById("result");
+
+/* Adding attempts for improved game experience */
 const maxAttempts = 3;
 let attempts = 0;
 let running = true;
