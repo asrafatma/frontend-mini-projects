@@ -20,6 +20,10 @@ body{
 
 }
 
+#H1{
+    background-color: linear-gradient(135deg, #8b8bff, #6a6aff);
+}
+
 .div{
     text-align: center;
 }
