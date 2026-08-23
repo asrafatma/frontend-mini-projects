@@ -15,3 +15,11 @@ html, body {
     font-family: 'Arial Narrow', Arial, sans-serif;
     background-color: #cba0a0;
 }
+
+.subscribe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: fit-content;
+    padding: 10px 20px;
+}
