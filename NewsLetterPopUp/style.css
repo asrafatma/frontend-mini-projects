@@ -49,3 +49,10 @@ html, body {
     border-radius: 10px;
     text-align: center;
 }
+
+#popup.active {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    visibility: visible;
+}
