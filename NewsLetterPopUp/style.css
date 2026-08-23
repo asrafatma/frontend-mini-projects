@@ -34,3 +34,12 @@ html, body {
     background-color: #ef0d41;
     cursor: pointer;
 }
+
+#popup {
+    position: fixed;
+    top: -100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+    visibility: hidden;
+}
