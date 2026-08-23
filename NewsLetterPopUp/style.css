@@ -80,4 +80,8 @@ html, body {
     border: none;
     border-radius: 5px;
     background-color: #ff4b2b;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
 }
