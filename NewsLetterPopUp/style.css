@@ -60,3 +60,8 @@ html, body {
 #title {
     margin-bottom: 10px;
 }
+
+#description {
+    margin-bottom: 20px;
+    color: #666;
+}
