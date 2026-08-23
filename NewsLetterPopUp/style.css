@@ -89,3 +89,15 @@ html, body {
 .subscribe-button:hover {
     background-color: #ef0d41;
 }
+
+.close-button {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background-color: transparent;
+    border: none;
+    font-size: 18px;
+    color: #333;
+    text-decoration: none;
+    cursor: pointer;
+}
