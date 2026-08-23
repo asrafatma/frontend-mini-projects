@@ -7,3 +7,11 @@
 html, body {
     height: 100vh;
 }
+
+.popup-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    background-color: #cba0a0;
+}
