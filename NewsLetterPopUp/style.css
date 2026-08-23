@@ -22,4 +22,9 @@ html, body {
     align-items: center;
     max-width: fit-content;
     padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    background-color: #ff4b2b;
+    text-decoration: none;
+    transition: background-color 0.3s ease, letter-spacing 0.3s ease;
 }
