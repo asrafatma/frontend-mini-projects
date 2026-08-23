@@ -42,4 +42,10 @@ html, body {
     transform: translate(-50%, -50%);
     z-index: 1000;
     visibility: hidden;
+    background-color: #fff;
+    width: 450px;
+    padding: 60px 40px 40px;
+    transition: all 0.5s ease-in-out;
+    border-radius: 10px;
+    text-align: center;
 }
