@@ -56,3 +56,7 @@ html, body {
     transform: translate(-50%, -50%);
     visibility: visible;
 }
+
+#title {
+    margin-bottom: 10px;
+}
