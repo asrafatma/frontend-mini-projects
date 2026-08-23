@@ -28,3 +28,9 @@ html, body {
     text-decoration: none;
     transition: background-color 0.3s ease, letter-spacing 0.3s ease;
 }
+
+.subscribe:hover {
+    letter-spacing: 1px;
+    background-color: #ef0d41;
+    cursor: pointer;
+}
