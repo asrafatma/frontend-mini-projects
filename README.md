@@ -38,4 +38,8 @@ frontend-mini-projects/
 │   ├── index.html
 │   ├── index.js
 │   └── style.css
+├── NewsLetterPopUp/
+│   ├── index.html
+│   ├── index.js
+│   └── style.css
 └── README.md
