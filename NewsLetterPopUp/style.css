@@ -65,3 +65,12 @@ html, body {
     margin-bottom: 20px;
     color: #666;
 }
+
+.email-input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
