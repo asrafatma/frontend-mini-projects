@@ -18,6 +18,8 @@ This repository houses modular frontend mini-projects designed to practice and d
 | **02. Dice Roll** | Interactive random dice roller | [Demo](https://asrafatma.github.io/frontend-mini-projects/DiceRoll/) | [Code](./DiceRoll/) |
 | **03. Number Guessing Game** | Interactive logic game with user feedback | [Demo](https://asrafatma.github.io/frontend-mini-projects/NumberGuessingGame/) | [Code](./NumberGuessingGame/) |
 | **04. Newsletter Popup** | Simple newsletter popup | [Demo](https://asrafatma.github.io/frontend-mini-projects/NewsLetterPopUp/) | [Code](./NewsLetterPopUp/) |
+| **05. Custom Visual Changer** | Interactive program for checking various css styles | [Demo](https://asrafatma.github.io/frontend-mini-projects/CustomVisualChanger/) | [Code](./CustomVisualChanger/) |
+
 
 ---
 
