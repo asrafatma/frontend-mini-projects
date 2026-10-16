@@ -10,11 +10,11 @@ body{
     display: block;
     max-width: fit-content;
     max-height: fit-content;
-    border-radius: 15px;
+    border-radius: 16px;
     background-color: rgb(200, 151, 247);
     color: rgb(40, 21, 58);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding: 30px;
+    padding: 31px;
     margin: auto 0;
     box-shadow: 0 5px 20px rgba(0,0,0,0.2);
 
